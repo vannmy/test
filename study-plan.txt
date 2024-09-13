@@ -3,3 +3,4 @@ Study Plans
 - Network
 - IDcamp (backend)
 - Frontend
+- Machine Learning
