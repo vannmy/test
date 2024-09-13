@@ -1,4 +1,4 @@
 Study Plans
 - Github
 - Network
-- IDcamp (front end)
+- IDcamp (backend)
