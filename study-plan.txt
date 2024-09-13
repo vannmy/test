@@ -4,3 +4,4 @@ Study Plans
 - IDcamp (backend)
 - Frontend
 - Machine Learning
+- Ethical Hacking
