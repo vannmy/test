@@ -5,3 +5,4 @@ Study Plans
 - Frontend
 - Machine Learning
 - Ethical Hacking
+- Android
